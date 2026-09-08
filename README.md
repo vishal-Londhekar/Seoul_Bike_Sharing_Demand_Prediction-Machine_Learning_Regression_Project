@@ -41,6 +41,21 @@ Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn, regression mode
 
 Use the evaluation section in the notebook for the exact train/test split, random seed, baseline, and final metrics. Report the test-set R², MAE, and RMSE together; an R² badge without the evaluation protocol is not sufficient for reproducibility.
 
+
+## Business problem and decision
+
+### Business problem
+Bike-sharing operators must plan capacity around changing demand. Underestimating demand can reduce availability for riders, while overestimating it can waste redistribution and staffing resources.
+
+### Analyst question
+How do weather, calendar, season, and time-of-day variables relate to demand, and how accurately can demand be estimated for unseen observations?
+
+### Decision supported
+Operations teams can use a validated forecast as one input into bike allocation, staffing, maintenance, and service-planning decisions. The current repository demonstrates the modelling workflow rather than a live planning system.
+
+### Potential success measure
+Measure performance on a time-aware holdout using MAE, RMSE, and R², and compare it with a simple baseline before considering operational use.
+
 ## Analyst value
 
 > **Portfolio focus:** Operations Analytics · Demand Forecasting · Predictive Decision Support

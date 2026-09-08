@@ -51,7 +51,7 @@ Use the evaluation section in the notebook for the exact train/test split, rando
 
 **Decision support:** Shows how demand estimates can inform staffing, bike availability, and service planning while keeping validation requirements visible.
 
-## $1
+## Limitations
 
 - This is a notebook-based forecasting prototype, not a live prediction service.
 - Performance may change across seasons, weather conditions, and unseen time periods.

@@ -1,5 +1,7 @@
 # Seoul Bike Sharing Demand Prediction
 
+> **Data Analyst & Business Intelligence Analyst portfolio project**
+
 A machine-learning notebook for predicting bike-sharing demand from weather, calendar, and time-related features.
 
 ## Project objective
@@ -39,7 +41,17 @@ Python, pandas, NumPy, Matplotlib, Seaborn, SciPy, scikit-learn, regression mode
 
 Use the evaluation section in the notebook for the exact train/test split, random seed, baseline, and final metrics. Report the test-set R², MAE, and RMSE together; an R² badge without the evaluation protocol is not sufficient for reproducibility.
 
-## Limitations
+## Analyst value
+
+> **Portfolio focus:** Operations Analytics · Demand Forecasting · Predictive Decision Support
+
+**Stakeholder lens:** Mobility operators, capacity planners, and operations teams.
+
+**Skills demonstrated:** Data quality checks, time and weather feature engineering, regression modelling, model comparison, error analysis, and operational interpretation.
+
+**Decision support:** Shows how demand estimates can inform staffing, bike availability, and service planning while keeping validation requirements visible.
+
+## $1
 
 - This is a notebook-based forecasting prototype, not a live prediction service.
 - Performance may change across seasons, weather conditions, and unseen time periods.

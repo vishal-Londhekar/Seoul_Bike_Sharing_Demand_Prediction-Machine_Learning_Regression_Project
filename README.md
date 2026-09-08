@@ -24,6 +24,7 @@ The workflow covers:
 
 - **Bike_Sharing_Demand_Prediction.ipynb** — analysis and modelling notebook
 - **SeoulBikeData.csv** — dataset
+- **requirements.txt** — reproducible Python dependencies
 - **README.md** — project documentation
 
 ## Tools
